@@ -1,0 +1,44 @@
+#navbar{
+    background-color: rgb(39, 55, 180);
+}
+
+header{
+   height: 500px;
+
+}
+
+#title{
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#valik-image1{
+    float: right;
+    margin-top: -340px;
+}
+
+#comunitys_section{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    margin-left:80px;
+}
+
+#comunidade{
+    margin-left: 30px;
+}
+
+#nome-da-comunidade{
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+#comunity-icon{
+    width: 105px;
+    border-radius: 10px;
+
+}
