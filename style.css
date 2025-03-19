@@ -1,10 +1,9 @@
 #navbar{
-    background-color: rgb(39, 55, 180);
+    background-color: rgb(33, 33, 33);
 }
 
 header{
    height: 500px;
-
 }
 
 #title{
@@ -34,11 +33,9 @@ header{
     display: flex;
     flex-direction: row;
     text-align: center;
-
 }
 
 #comunity-icon{
     width: 105px;
     border-radius: 10px;
-
 }
